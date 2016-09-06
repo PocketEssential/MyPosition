@@ -53,6 +53,7 @@ public function onCommand(CommandSender $sender, Command $command, $label, array
       $z = $sender->getZ();
       $world = $sender->getLevel()->getName();
 				$sender->sendMessage("Your starting at: \nWorld: $world \nX:  $x \nY: $y \nZ: $z");
+				return true;
 		}
 }
 public function Disable(){

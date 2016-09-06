@@ -1,0 +1,5 @@
+name: MyPosition
+main: PocketEssential\MyPosition
+version: 1.0.0
+api: 1.0.0
+Description: Gets your XYZ ;) 

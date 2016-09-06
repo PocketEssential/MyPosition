@@ -3,3 +3,11 @@ main: PocketEssential\MyPosition
 version: 1.0.0
 api: 1.0.0
 Description: Gets your XYZ ;) 
+
+
+commands:
+    helper:
+        description: show the help page to user
+        permission: myhelper.use
+        usage: /helper For Helper Page.
+

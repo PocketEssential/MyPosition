@@ -1,6 +1,7 @@
 <?php
 
-**
+/*
+ *
  * 
  * 8888888b.                   888               888    8888888888                                    888    d8b          888 
  * 888   Y88b                  888               888    888                                           888    Y8P          888 
@@ -21,7 +22,7 @@
  *
  */
  
-namespace PocketEssential\MyPosition;
+namespace PocketEssential;
 use pocketmine\Player;
 use pocketmine\event\Listener;
 use pocketmine\Server;
